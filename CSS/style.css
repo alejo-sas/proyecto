@@ -33,9 +33,10 @@ body {
     box-sizing: border-box;
     position: absolute;
     top: 15px;
-    left: 800px;
+    left: 650px;
     padding-left: 100px;
     width: 1920px;
+    color: red
 }
 
 .contenido {
