@@ -7,7 +7,7 @@
 
 body {
     margin: 0;
-    background-color: rgb(0, 38, 255)
+    background-color: royalblue;
 }
 
 .container_top {
@@ -73,7 +73,7 @@ body {
 }
 
 .contenido-catalogo {
-    color: red;
+    color: blue;
     box-sizing: border-box;
     position: absolute;
     top: 0;
@@ -82,13 +82,13 @@ body {
     width: 800px;
 }
 
-.catalogo {
-    top: 0;
+.contactanos {
+    top: 100px;
     left: 0;
     max-width: 100%;
     width: 800px;
     font-size: 20px;
-    color: red
+    color: blue;
 }
 
 .ofertas {
